@@ -90,6 +90,12 @@ _California, USA · Oct 2021 – Feb 2023_
 
 ---
 
+## 📄 My CV
+
+- 👉 [Download CV — Spanish (PDF)](./CV-SantiagoPianda-English.pdf)  
+- 👉 [Download CV — English (PDF)](./CV-SantiagoPianda.pdf)
+
+
 ## 📫 Contact & Links
 
 - **LinkedIn:** https://www.linkedin.com/in/santiago-bustos-pianda/  
