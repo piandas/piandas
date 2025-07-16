@@ -92,8 +92,8 @@ _California, USA · Oct 2021 – Feb 2023_
 
 ## 📄 My CV
 
-- 👉 [Download CV — Spanish (PDF)](./CV-SantiagoPianda-English.pdf)  
-- 👉 [Download CV — English (PDF)](./CV-SantiagoPianda.pdf)
+- 👉 [Download CV — Spanish (PDF)](./CV-SantiagoPianda.pdf)  
+- 👉 [Download CV — English (PDF)](./CV-SantiagoPianda-English.pdf)
 
 
 ## 📫 Contact & Links
